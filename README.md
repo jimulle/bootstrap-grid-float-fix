@@ -3,18 +3,8 @@ Simple fix for floated grid elements of varying sizes (using inline-block)
 
 Changes the grid elements to inline-block which allows us to alleviate the annoying float issues when elements flow over to a new row.
 
-<table>
-<tbody>
-<tr>
-<td>go from this:</td>
-<td>to this:</td>
-</tr>
-<tr>
-<td><img src="http://s4.postimg.org/el7qfdonh/Screen_Shot_2015_09_22_at_12_14_07_AM.png" style="with: 100%;"/></td>
-<td><img src="http://s4.postimg.org/r14g94hzh/Screen_Shot_2015_09_22_at_12_13_28_AM.png" style="with: 100%;"/></td>
-</tr>
-</tbody>
-</table>
+<img src="http://i60.tinypic.com/apcwet.jpg"/>
+
 
 <br/><br/>
 

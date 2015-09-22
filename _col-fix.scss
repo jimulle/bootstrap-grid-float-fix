@@ -1,0 +1,7 @@
+//alt css to fix float issues with bootstrap grid-columns
+.col-fix {
+  float: none;
+  display: inline-block;
+  margin: 0 -0.125em;
+  vertical-align: top;
+}
